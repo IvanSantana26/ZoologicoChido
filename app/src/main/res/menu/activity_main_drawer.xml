@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/mCrear"
+            android:icon="@drawable/crearf"
+            android:title="Crear" />
+        <item
+            android:id="@+id/mModificar"
+            android:icon="@drawable/modif"
+            android:title="Modificar" />
+        <item
+            android:id="@+id/mListar"
+            android:icon="@drawable/listar"
+            android:title="Listar" />
+        <item
+            android:id="@+id/mEliminar"
+            android:icon="@drawable/eliminar"
+            android:title="Eliminar" />
+        <item
+            android:id="@+id/mSalir"
+            android:icon="@drawable/sal"
+            android:title="Salir" />
+    </group>
+
+</menu>

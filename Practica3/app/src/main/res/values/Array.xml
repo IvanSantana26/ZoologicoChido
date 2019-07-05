@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Opciones">
+        <item>Selecciona una clasificacion</item>
+    <item>Reptiles</item>
+    <item>Aereos</item>
+    <item>Terrestres</item>
+    <item>Acuaticos</item>
+    </string-array >
+
+    <string-array name="uno">
+        <item>Serpiente</item>
+        <item>Iguana</item>
+        <item>Cocodrilo</item>
+        <item>Tortuga</item>
+    </string-array >
+
+    <string-array name="dos">
+        <item>Flamingo</item>
+        <item>Buho</item>
+        <item>Halcon</item>
+        <item>Pato</item>
+    </string-array >
+
+    <string-array name="tres">
+        <item>Jirafa</item>
+        <item>Tigre</item>
+        <item>Elefante</item>
+        <item>Rinocerente</item>
+    </string-array >
+
+    <string-array name="cuatro">
+        <item>Delfin</item>
+        <item>Tiburon</item>
+        <item>Ballena</item>
+        <item>Nemo</item>
+    </string-array >
+
+"</resources>
